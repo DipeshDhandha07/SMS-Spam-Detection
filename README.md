@@ -1,7 +1,15 @@
 # SMS-Spam-Detection
+<br>
 
 ## Installation
 
-'''html
+```html
 pip install streamlit
-'''
+```
+
+## Run
+
+# Command Prompt:
+```html
+streamlit run spam.py
+```
