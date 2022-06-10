@@ -5,6 +5,7 @@
 
 ```html
 pip install streamlit
+pip install -r requirements.txt
 ```
 <br>
 
