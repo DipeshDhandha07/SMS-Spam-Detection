@@ -10,7 +10,6 @@ pip install streamlit
 
 ## Run
 
-### Command Prompt:
 ```html
 streamlit run spam.py
 ```
