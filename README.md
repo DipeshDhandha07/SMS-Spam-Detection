@@ -2,26 +2,26 @@
 <br>
 
 ## Download
+<br>
 
 ### Python
 
 https://www.python.org/downloads/
 <br>
 
-## Installation
+## Clone this repository
 
+```html
+https://github.com/DipeshDhandha07/SMS-Spam-Detection.git
+```
+<br>
+
+## Installation
 <br>
 
 ```html
 pip install streamlit
 pip install -r requirements.txt
-```
-<br>
-
-## Clone this repository
-
-```html
-https://github.com/DipeshDhandha07/SMS-Spam-Detection.git
 ```
 <br>
 
