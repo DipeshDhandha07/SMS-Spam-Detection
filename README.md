@@ -24,7 +24,7 @@ streamlit run spam.py
 ```
 <br>
 
-## DEMO
+## Demo
 
 https://sms-spam-login.herokuapp.com/
 
