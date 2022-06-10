@@ -1,14 +1,6 @@
 # SMS-Spam-Detection
 <br>
 
-## Download
-<br>
-
-### Python
-
-https://www.python.org/downloads/
-<br>
-
 ## Clone this repository
 
 ```html
