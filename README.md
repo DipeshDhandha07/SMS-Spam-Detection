@@ -2,13 +2,14 @@
 <br>
 
 ## Download
-<br>
-
-## Installation
 
 ### Python
 
 https://www.python.org/downloads/
+<br>
+
+## Installation
+
 <br>
 
 ```html
