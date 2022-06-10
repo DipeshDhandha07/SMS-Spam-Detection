@@ -13,6 +13,8 @@ https://github.com/DipeshDhandha07/SMS-Spam-Detection.git
 
 ```html
 pip install streamlit
+```
+```html
 pip install -r requirements.txt
 ```
 <br>
