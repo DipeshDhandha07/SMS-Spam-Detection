@@ -7,6 +7,7 @@
 pip install streamlit
 ```
 <br>
+
 ## Run
 
 ### Command Prompt:
@@ -14,6 +15,7 @@ pip install streamlit
 streamlit run spam.py
 ```
 <br>
+
 ## DEMO
 ```html
 https://sms-spam-login.herokuapp.com/
