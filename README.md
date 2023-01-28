@@ -12,10 +12,11 @@ https://github.com/DipeshDhandha07/SMS-Spam-Detection.git
 <br>
 
 ```html
-pip install streamlit
+pip install streamlit==0.63.0
 ```
 ```html
 pip install -r requirements.txt
+pip install -r nltk.txt
 ```
 <br>
 
@@ -26,7 +27,4 @@ streamlit run spam.py
 ```
 <br>
 
-## Demo
-
-https://sms-spam-login.herokuapp.com/
 
