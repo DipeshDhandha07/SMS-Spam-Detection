@@ -3,14 +3,7 @@ import streamlit as st
 
 # Configuration Key
 firebaseConfig = {
-  'apiKey': "AIzaSyBipeCZHz76Wt95OxlNreUN42snxoapTvs",
-  'authDomain': "spam-detection-c83e2.firebaseapp.com",
-  'projectId': "spam-detection-c83e2",
-  'databaseURL': "https://spam-detection-c83e2-default-rtdb.europe-west1.firebasedatabase.app/",
-  'storageBucket': "spam-detection-c83e2.appspot.com",
-  'messagingSenderId': "652569329387",
-  'appId': "1:652569329387:web:738dbc6e337587af09c8ae",
-  'measurementId': "G-NRZM5Z40R5"
+
 }
 
 # Firebase authentication
