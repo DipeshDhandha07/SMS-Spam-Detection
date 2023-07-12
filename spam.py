@@ -51,3 +51,8 @@ if st.button('Predict'):
         st.header("Spam")
     else:
         st.header("Not Spam")
+        
+st.header("\n")
+st.header("\n")
+html_string = "<a href=>Logout</a>"
+st.markdown(html_string, unsafe_allow_html=True)
