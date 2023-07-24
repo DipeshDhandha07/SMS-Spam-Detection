@@ -1,4 +1,5 @@
 # SMS-Spam-Detection
+This project is created using Streamlit and Heroku framework,Firebase  in machine learning using python language. It includes a csv file also which detects after writing any message that is spam mesaage or not spam message.
 <br>
 
 ![image](https://github.com/DipeshDhandha07/SMS-Spam-Detection/assets/55910147/a6e6ab09-953f-45fa-8962-fe49a6af3dc8)
